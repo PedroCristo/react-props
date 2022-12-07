@@ -1,0 +1,17 @@
+.product-details {
+  padding: 20px;
+  margin-left: 50px;
+}
+
+
+.product-details h1 {
+  color: rgb(128, 98, 0);
+}
+
+.product-details h2 {
+  color: rgb(0, 81, 128);
+}
+
+.product-details h3 {
+  color: rgb(8, 153, 86);
+}
